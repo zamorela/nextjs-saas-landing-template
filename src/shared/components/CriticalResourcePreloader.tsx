@@ -27,7 +27,6 @@ export const CriticalResourcePreloader: React.FC<CriticalResourcePreloaderProps>
       document.head.appendChild(link);
     });
 
-    // Cleanup
     return () => {
       resources.forEach(({ href }) => {
         const existingLink = document.querySelector(`link[href="${href}"]`);
