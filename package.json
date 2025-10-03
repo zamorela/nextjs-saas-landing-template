@@ -1,0 +1,59 @@
+{
+  "name": "saas-app-landing-template",
+  "version": "1.0.0",
+  "description": "Modern SaaS landing page template with GSAP animations and Framer Motion",
+  "private": false,
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "gsap",
+    "framer-motion",
+    "saas",
+    "landing-page",
+    "template",
+    "starter",
+    "boilerplate",
+    "responsive",
+    "animations"
+  ],
+  "author": "Zamorela",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zamorela/saas-app-landing-template.git"
+  },
+  "homepage": "https://github.com/zamorela/saas-app-landing-template#readme",
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.81.5",
+    "axios": "^1.10.0",
+    "classnames": "^2.5.1",
+    "framer-motion": "^12.20.1",
+    "gsap": "^3.13.0",
+    "next": "15.3.2",
+    "next-intl": "^4.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.58.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/gsap": "^3.0.0",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.2",
+    "tailwindcss": "^4",
+    "tw-animate-css": "^1.3.0",
+    "typescript": "^5"
+  }
+}

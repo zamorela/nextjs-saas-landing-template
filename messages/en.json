@@ -1,0 +1,172 @@
+{
+  "Header": {
+    "requestDemoBtn": "Become a Beta Tester",
+    "joinWaitingListBtn": "Join the waiting list",
+    "nav": {
+      "advantages": "Advantages",
+      "reviews": "Reviews",
+      "faq": "FAQ",
+      "contacts": "Contacts",
+      "menu": "Menu",
+      "application": "Application",
+      "documents": "Documents"
+    }
+  },
+  "Footer": {
+    "documents": "Documents",
+    "support": "Support",
+    "all-rights-reserved": "All rights reserved",
+    "meta-disclaimer": "Meta Platforms Inc. (Facebook, Instagram) is recognized as an extremist organization, its activities are prohibited in the territory of Russia"
+  },
+  "Home": {
+    "MainSection": {
+      "title": "Your Personal Nutritionist in Your Pocket",
+      "description": "Take a photo of your food, get instant calorie calculation and nutritionist advice",
+      "requestDemoBtn": "I want to try",
+      "subTitle": "Join the waiting list"
+    },
+    "FunctionalSection": {
+      "tag": "FEATURES",
+      "title": "How the app counts calories",
+      "cards": {
+        "quick-start": {
+          "title": "Quick Start: Data Input",
+          "description": "Enter your information and get a personalized meal plan in 30 seconds. AI will do all the calculations. You just have to follow the recommendations!"
+        },
+        "statistics": {
+          "title": "Your diary and visual statistics",
+          "description": "Track your results: beautiful charts and reports will show how much protein, fat, and carbs you've eaten, how much is left, how your weight is changing, and whether you're following your diet. Get motivated by seeing your progress!"
+        },
+        "ways": {
+          "title": "Different ways to add food",
+          "description": "Take a photo of lunch, scan a barcode or say out loud what you ate - the app will calculate calories, proteins, fats and carbohydrates. Save time and forget about manual calculations!"
+        },
+        "chat": {
+          "title": "Live chat with nutritionist",
+          "description": "Enter your information and get a personalized meal plan in 30 seconds. AI will do all the calculations. You just have to follow the recommendations!"
+        },
+        "ai-analysis": {
+          "title": "Powerful AI Nutrition Analysis",
+          "description": "Click 'Analysis' and the app will provide a complete report: what percentage of carbs/proteins/fats/calories, your detailed analytics with weight changes and goal achievement chart"
+        }
+      }
+    },
+    "FaqSection": {
+      "tag": "FAQ",
+      "title": "Frequently Asked Questions"
+    },
+    "UserChallengesSection": {
+      "tag": "REVIEWS",
+      "title": "User Reviews"
+    },
+    "EndSection": {
+      "description": "We will respond within a day",
+      "requestDemoBtn": "Become a Beta Tester"
+    }
+  },
+  "WaitingListForm": {
+    "title": "Join the Waiting List🚀",
+    "nameLabel": "Name*",
+    "namePlaceholder": "Enter your name",
+    "emailLabel": "Email*",
+    "emailPlaceholder": "Enter your email",
+    "phoneLabel": "Enter your phone number or Telegram via @*",
+    "phonePlaceholder": "Phone or @tg_username",
+    "agreeToUpdates": "I want to receive unique materials and project news via email",
+    "submitButton": "Get Access",
+    "submitting": "Sending...",
+    "agreement": "By filling out the form, you agree to the",
+    "documents": "documents",
+    "errors": {
+      "nameRequired": "Enter your name",
+      "nameMinLength": "Name must contain at least 2 characters",
+      "nameMaxLength": "Name must contain at most 20 characters",
+      "emailRequired": "Enter your email",
+      "emailInvalid": "Enter a valid email",
+      "phoneRequired": "Enter phone or telegram",
+      "phoneMinLength": "Enter valid data",
+      "subscribeRequired": "Please agree to receive updates"
+    }
+  },
+  "WaitingListSuccess": {
+    "title": "{name}, you're on the waiting list!",
+    "description": "While we're preparing the beta version, try our telegram bot for instant KBJU calculation from photos and descriptions:",
+    "botLink": "@trackerfoodbot",
+    "instruction": "Join right now to try the basic functionality and keep track of updates!",
+    "openTelegramBtn": "Open bot in Telegram",
+    "closeBtn": "Close"
+  },
+  "Reviews": {
+    "anna_levina": {
+      "name": "Anna Levina",
+      "role": "March 12, 2025",
+      "text": "The bot is simply awesome! I took a photo of food and immediately see how many calories and macros are there. Very convenient when there's no time to enter everything manually."
+    },
+    "dmitriy_sidorov": {
+      "name": "Dmitry Sidorov",
+      "role": "March 28, 2025",
+      "text": "Really useful thing! Fast, accurate and in Russian. I now count my diet through it every day, it has become a habit."
+    },
+    "marina_krivtsova": {
+      "name": "Marina Krivtsova",
+      "role": "April 5, 2025",
+      "text": "Looks very user-friendly. I liked that the bot itself suggests clarifications if a dish is not recognized. You can feel that it was made with care."
+    },
+    "igor_bekbulatov": {
+      "name": "Igor Bekbulatov",
+      "role": "April 17, 2025",
+      "text": "I tested it out of curiosity - and stayed! AI integration gives excellent results, and you can also manually add ingredients. Well thought out."
+    },
+    "kamila_alaeva": {
+      "name": "Kamila Alaeva",
+      "role": "May 24, 2025",
+      "text": "For me it was a discovery that you can track nutrition so simply. The bot responds quickly, and the data is quite accurate!"
+    },
+    "timur_mamaev": {
+      "name": "Timur Mamaev",
+      "role": "March 8, 2025",
+      "text": "Participated in cast devs - cool that the team really listens to feedback. The 'streak' feature is top!"
+    },
+    "elvira_nasrullaeva": {
+      "name": "Elvira Nasrullaeva",
+      "role": "March 16, 2025",
+      "text": "When I was first shown the app, I thought - this is going to be a bomb. Convenient diary, detailed analytics, cool visual!"
+    },
+    "ruslan_ibragimov": {
+      "name": "Ruslan Ibragimov",
+      "role": "April 2, 2025",
+      "text": "It was important for me to be able to adapt to my goals. Here it really worked out - both onboarding and recommendations are great."
+    },
+    "zhanna_kerimova": {
+      "name": "Zhanna Kerimova",
+      "role": "April 11, 2025",
+      "text": "Thank you for the opportunity to participate in early testing. I noticed that after a week of keeping a diary it became easier to control nutrition."
+    },
+    "adam_yunusov": {
+      "name": "Adam Yunusov",
+      "role": "May 20, 2025",
+      "text": "I was among the first to see the MVP. Even then it was clear that the product was strong. I was especially impressed by the part with meal timing recommendations."
+    }
+  },
+  "Documents": {
+    "title": "Documents"
+  },
+  "SEO": {
+    "HomePage": {
+      "title": "Your App — Smart Solution for Your Business | Modern Technology",
+      "description": "Your App is an intelligent business solution: streamline your workflow, boost productivity, and get personalized insights. Join our beta today!",
+      "keywords": "business solution, productivity, workflow, automation, smart technology, modern app, business tools, beta test"
+    },
+    "DocumentsPage": {
+      "title": "All Documents | Your App — Resources & Agreements",
+      "description": "On the \"All Documents\" page you'll find all official Your App materials: user agreements, privacy policies, and other important resources for users.",
+      "keywords": "all documents, app documents, user agreement, privacy policy, app resources, business documents",
+      "h1": "All Documents"
+    },
+    "DocumentDetail": {
+      "title": "{title} | Your App Document",
+      "description": "Read \"{title}\"",
+      "keywords": "{title}, app document, {title} document, resources"
+    }
+  }
+}

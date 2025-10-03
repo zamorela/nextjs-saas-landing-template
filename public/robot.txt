@@ -1,0 +1,16 @@
+User-agent: GPTBot
+Allow: /
+
+User-agent: *
+
+Disallow: /api
+
+Allow: /ru/
+Allow: /ru/documents/
+Allow: /ru/documents/*
+
+Allow: /en/
+Allow: /en/documents/
+Allow: /en/documents/*
+
+Sitemap: https://your-app.com/sitemap.xml 
